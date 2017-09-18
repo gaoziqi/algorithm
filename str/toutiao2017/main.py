@@ -69,8 +69,10 @@ def find(S, m):
 if __name__ == '__main__':
     # S = 'abcdzbaxvna'
     # m = 3
-    a = input()
+    """a = input()
     b = a.split(' ')
     S = b[0]
-    m = int(b[1])
+    m = int(b[1])"""
+    S = 'ecbxooxtqjrlvnorhxeglkoxwfdvswfeeoctyjiqsfkgylwgqjrvrubkjxpbsygglxpelreeztwnlzrfcrtvrqnoveuoqsqfneyphortytzcdswuvwvmootjbzxuctgcvmjkfqtbnklxhtiyoclcosthhxntrzwshgnyntqvvourhsdbgqcwrnkbymqcofypmzumkqzrnsylgfwqmprbfjxnhiowvjdnjgifujnxquxuiswkjkrqbhoyfwyghrddqrhbbdcbcuxcbnlhemgbkpokshcouzsxhwzokvjblwepdoqvvpqztmghrmrsfissbnqyndzqrjdxjgqhhwkjujursybqkqcdtfwznenytqcdrvyqdoddbobrwrblejpkwzupkksdnlxfjivmxlpeccybngxzrmrfesqgwnqlkmoyryyvdpcovzbwhkzllfjvmldxvhmrekduwnldgltehhsycfljgebgsxljywtnofdjmkkdcxtrtzlzmbnfrtzwcipffopdshkdwdylhsvwyybvlpwvgdedzlsvqkirmvoukvptxmxutmvwtzrnwdwvpklcihbdxchtspgsrkyyrrgugnfgbutdoxewrnlwkxjomiotscebubsrufrksmsjcqulpmqqdyqovwwduppyiptjbygkbbpksfbjntylfwbwxgmcesdstrylkfnngkixfwfiulvsbbltdvqhsurxsmqydixcsikjwzdjjibnbreecrfhpezkesrjwzendqfglnjemivktrmylpuosuheembjvkqdhqjzrwwkvekiwkmgzctddwomdtcbvthjjsmtbkvuvxxnhljecsndygolyqtidmkqhcwtjhtydtlnmtmytcvqjfovbdscgyycwjqtfwinsrcqxmcwdhtnkhbgtgtcgrsvxywjifopnviymddnvtlpriirdihntqnpdogusxdcmlgsrnfxnqlysqpheblwvwtufsbsmtrhxovb'
+    m = 6
     print(find(S, m))
